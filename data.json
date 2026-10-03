@@ -1,0 +1,240 @@
+{
+  "books": [
+    {
+      "id": "x46npykjaw0n",
+      "title": "여행 & 출장",
+      "subtitle": "떠나기 전 빠짐없이 준비하는 출격 프로토콜",
+      "icon": "✈️",
+      "palette": "mark3",
+      "chapters": [
+        {
+          "id": "d0l7epunaw0n",
+          "title": "출발 1주 전 준비",
+          "guide": "여행이나 출장 일정이 확정되었을 때 사용하세요.\n항공권·숙소·서류처럼 미리 처리하지 않으면 당일에 해결할 수 없는 일들을 모아두었습니다. 일주일 전에 한 번 훑어보면 출발 직전에 허둥대는 일이 크게 줄어듭니다.",
+          "items": [
+            {
+              "id": "k32s6qpeaw0n",
+              "text": "여권/신분증 유효기간 확인",
+              "done": false
+            },
+            {
+              "id": "cvg6y18vaw0n",
+              "text": "항공권·숙소 예약 확인 메일 저장",
+              "done": false
+            },
+            {
+              "id": "hrp1lf1caw0n",
+              "text": "여행자 보험 가입",
+              "done": false
+            },
+            {
+              "id": "fn80xqo2aw0n",
+              "text": "환전 또는 해외 결제 카드 준비",
+              "done": false
+            },
+            {
+              "id": "5pqt6roqaw0n",
+              "text": "현지 교통편 알아보기",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "to32d7ijaw0n",
+          "title": "짐 싸기",
+          "guide": "출발 전날 밤, 가방을 쌀 때 사용하세요.\n하나씩 넣으면서 체크하면 충전기나 상비약처럼 꼭 빠뜨리기 쉬운 물건을 챙길 수 있습니다.",
+          "items": [
+            {
+              "id": "7dylq350aw0n",
+              "text": "충전기 & 보조배터리",
+              "done": false
+            },
+            {
+              "id": "5dgnc8cgaw0n",
+              "text": "세면도구",
+              "done": false
+            },
+            {
+              "id": "x03zw0otaw0n",
+              "text": "상비약",
+              "done": false
+            },
+            {
+              "id": "r7qoxc6jaw0n",
+              "text": "갈아입을 옷",
+              "done": false
+            },
+            {
+              "id": "vzih5m8oaw0n",
+              "text": "우산 또는 우비",
+              "done": false
+            },
+            {
+              "id": "hbogbigoaw0n",
+              "text": "멀티 어댑터",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "fjwhm97yaw0n",
+          "title": "출발 당일",
+          "guide": "집을 나서기 직전에 사용하세요.\n문단속과 전기제품 확인처럼 나가고 나서 걱정되는 것들을 마지막으로 점검합니다.",
+          "items": [
+            {
+              "id": "wcvipzsraw0n",
+              "text": "가스 밸브 잠금",
+              "done": false
+            },
+            {
+              "id": "ehfwzs20aw0n",
+              "text": "창문·현관 잠금",
+              "done": false
+            },
+            {
+              "id": "4iyk4ncuaw0n",
+              "text": "전기 플러그 뽑기",
+              "done": false
+            },
+            {
+              "id": "ypj2m1ckaw0n",
+              "text": "여권·지갑·휴대폰 소지 확인",
+              "done": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m4tqsw3eaw0n",
+      "title": "프로젝트 런칭",
+      "subtitle": "아이디어부터 출시까지, 스타크 인더스트리 방식으로",
+      "icon": "🚀",
+      "palette": "gold",
+      "chapters": [
+        {
+          "id": "vped4gdwaw0n",
+          "title": "기획 단계",
+          "guide": "새 프로젝트를 시작할 때 가장 먼저 사용하세요.\n목표와 범위를 처음에 분명히 정해 두면 진행 중에 방향을 잃지 않습니다. 팀원과 킥오프 미팅 전에 함께 보면 좋습니다.",
+          "items": [
+            {
+              "id": "r9cmezlkaw0n",
+              "text": "해결하려는 문제 한 문장으로 정의",
+              "done": false
+            },
+            {
+              "id": "lu9ingoxaw0n",
+              "text": "목표 사용자 정하기",
+              "done": false
+            },
+            {
+              "id": "reh2ocoyaw0n",
+              "text": "성공 지표(KPI) 정하기",
+              "done": false
+            },
+            {
+              "id": "ulbgbt8gaw0n",
+              "text": "일정과 마일스톤 수립",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "h1lle5k7aw0n",
+          "title": "출시 전 점검",
+          "guide": "출시 하루 이틀 전, 최종 점검할 때 사용하세요.\n기능이 다 만들어진 뒤에도 놓치기 쉬운 테스트·공지·모니터링 준비를 확인합니다.",
+          "items": [
+            {
+              "id": "w88p0fz6aw0n",
+              "text": "주요 기능 테스트 완료",
+              "done": false
+            },
+            {
+              "id": "9gsmbo51aw0n",
+              "text": "모바일 화면 확인",
+              "done": false
+            },
+            {
+              "id": "11m8pnwnaw0n",
+              "text": "공지/홍보 문구 준비",
+              "done": false
+            },
+            {
+              "id": "6uw7l1fyaw0n",
+              "text": "장애 대응 담당자 지정",
+              "done": false
+            },
+            {
+              "id": "vfq092sqaw0n",
+              "text": "모니터링 대시보드 확인",
+              "done": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47fochsaaw0n",
+      "title": "건강 루틴",
+      "subtitle": "슈트보다 중요한 건 파일럿의 컨디션",
+      "icon": "💪",
+      "palette": "arc",
+      "chapters": [
+        {
+          "id": "g8hz48e4aw0n",
+          "title": "아침 루틴",
+          "guide": "하루를 시작할 때 매일 사용하세요.\n작은 습관을 체크하며 시작하면 하루의 리듬이 잡힙니다. 모두 체크한 뒤에는 다음 날을 위해 체크를 해제해 두세요.",
+          "items": [
+            {
+              "id": "rb3dr1lsaw0n",
+              "text": "물 한 잔 마시기",
+              "done": false
+            },
+            {
+              "id": "d7ezpq5caw0n",
+              "text": "5분 스트레칭",
+              "done": false
+            },
+            {
+              "id": "abwc6jvraw0n",
+              "text": "오늘 할 일 3가지 적기",
+              "done": false
+            },
+            {
+              "id": "6mbg03c1aw0n",
+              "text": "아침 식사",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "ykoyx3jkaw0n",
+          "title": "잠들기 전",
+          "guide": "잠자리에 들기 30분 전에 사용하세요.\n수면의 질을 높이는 습관들입니다. 화면을 끄고 차분하게 하루를 마무리하세요.",
+          "items": [
+            {
+              "id": "xkijrfluaw0n",
+              "text": "휴대폰 내려놓기",
+              "done": false
+            },
+            {
+              "id": "7488rpw9aw0n",
+              "text": "내일 일정 확인",
+              "done": false
+            },
+            {
+              "id": "fqelo6eoaw0n",
+              "text": "방 온도·조명 조절",
+              "done": false
+            },
+            {
+              "id": "ahtrp5w5aw0n",
+              "text": "감사한 일 한 가지 떠올리기",
+              "done": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

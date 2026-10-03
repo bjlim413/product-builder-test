@@ -9,4 +9,18 @@
    - 항목 추가·수정·삭제, 체크 모두 해제
    - **💡 이럴 때 사용하세요**: 이 체크리스트를 언제 쓰면 좋은지 설명. 추가·수정·삭제 가능
 
-데이터는 브라우저 `localStorage`에 저장됩니다.
+## GitHub를 DB로 사용하기
+데이터는 이 저장소의 `data.json` 파일에 저장됩니다. 로그인 없이 모두가 같은 데이터를 봅니다.
+
+- **보기:** 누구나 가능합니다(공개 저장소 기준). 다른 사람이 바꾼 내용은 몇십 초 안에 자동으로 반영됩니다.
+- **수정:** 저장소에 쓰기 권한이 있는 GitHub 토큰이 필요합니다. 수정할 때마다 `data.json`에 커밋이 하나씩 쌓입니다(연속 수정은 한 커밋으로 묶음).
+- **동시 수정:** 두 사람이 동시에 저장하면, 나중에 저장한 쪽이 최신 `data.json`을 다시 받아 자기 변경을 그 위에 적용한 뒤 저장합니다.
+- **오프라인:** 저장하지 못한 변경은 브라우저에 보관했다가 다시 연결되면 올립니다.
+
+### 토큰 등록 방법
+1. GitHub → Settings → Developer settings → Personal access tokens → **Fine-grained tokens** → Generate new token
+2. Repository access: **Only select repositories** → 이 저장소 선택
+3. Permissions → Repository permissions → **Contents: Read and write**
+4. 앱 오른쪽 위 상태 버튼(⚙)을 눌러 토큰을 붙여넣고 **연결**
+
+토큰은 그 브라우저의 `localStorage`에만 저장되고 코드나 저장소에는 올라가지 않습니다. 토큰을 코드에 직접 넣으면 누구나 볼 수 있으니 절대 넣지 마세요.
