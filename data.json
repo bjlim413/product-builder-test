@@ -256,52 +256,52 @@
             {
               "id": "84v5l1ictugc",
               "text": "주민등록초본(2부)",
-              "done": false
+              "done": true
             },
             {
               "id": "pyhs4s77u1mq",
               "text": "주민등록등본(1부)",
-              "done": false
+              "done": true
             },
             {
               "id": "yvx19zkgu9ce",
               "text": "인감도장",
-              "done": false
+              "done": true
             },
             {
               "id": "egp57yfqugnd",
               "text": "인감증명서(2부)",
-              "done": false
+              "done": true
             },
             {
               "id": "rofkqxaouo3s",
               "text": "가족관계증명서",
-              "done": false
+              "done": true
             },
             {
               "id": "nlfq4eie2jzk",
               "text": "건강보험 자격득실확인서",
-              "done": false
+              "done": true
             },
             {
               "id": "1rd14h9j2pfn",
               "text": "등기권리증",
-              "done": false
+              "done": true
             },
             {
               "id": "x06nmff6zdmm",
               "text": "국세완납증명서",
-              "done": false
+              "done": true
             },
             {
               "id": "aq2slfb4znak",
               "text": "지방세완납증명서",
-              "done": false
+              "done": true
             },
             {
               "id": "j89f0ovxzz28",
               "text": "건강보험완납증명서",
-              "done": false
+              "done": true
             }
           ]
         }
