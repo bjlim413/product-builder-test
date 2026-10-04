@@ -292,6 +292,11 @@
               "id": "x06nmff6zdmm",
               "text": "국세완납증명서",
               "done": false
+            },
+            {
+              "id": "aq2slfb4znak",
+              "text": "지방세완납증명서",
+              "done": false
             }
           ]
         }
