@@ -355,7 +355,14 @@
       "subtitle": "",
       "icon": "📘",
       "palette": "mark3",
-      "chapters": []
+      "chapters": [
+        {
+          "id": "dg6lxcqvmv5p",
+          "title": "엔진오일",
+          "guide": "",
+          "items": []
+        }
+      ]
     }
   ]
 }
