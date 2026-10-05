@@ -309,7 +309,13 @@
           "id": "pqzyzh8es92q",
           "title": "대출실행",
           "guide": "대출실행시 사용하세요",
-          "items": []
+          "items": [
+            {
+              "id": "uh5gcjxbtdk1",
+              "text": "비용 내역표 받기",
+              "done": false
+            }
+          ]
         }
       ]
     }
