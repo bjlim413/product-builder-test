@@ -348,6 +348,14 @@
           ]
         }
       ]
+    },
+    {
+      "id": "j1wd48bklr9b",
+      "title": "차량점검",
+      "subtitle": "",
+      "icon": "📘",
+      "palette": "mark3",
+      "chapters": []
     }
   ]
 }
