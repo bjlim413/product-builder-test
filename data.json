@@ -339,6 +339,11 @@
               "id": "4lmg9caci331",
               "text": "장기수선충당금 납부",
               "done": false
+            },
+            {
+              "id": "pmr4hreqkit6",
+              "text": "대출실행",
+              "done": false
             }
           ]
         }
