@@ -378,7 +378,13 @@
           "id": "yd1u6koyqci7",
           "title": "공기압",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "z022ps78r3ta",
+              "text": "앞바퀴(좌측)",
+              "done": false
+            }
+          ]
         },
         {
           "id": "odtepmyjqrvi",
