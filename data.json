@@ -503,7 +503,13 @@
           "id": "ff83g4pnmpte",
           "title": "1차 중도금",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "id9wt2w3o5zu",
+              "text": "1차 중도금 납부 완료",
+              "done": false
+            }
+          ]
         }
       ]
     },
