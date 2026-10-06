@@ -438,7 +438,13 @@
           "id": "ahji5ddqo4j6",
           "title": "엘리베이터 보양재 설치",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "g5pomxbqoqfy",
+              "text": "설치 완료",
+              "done": false
+            }
+          ]
         }
       ]
     },
