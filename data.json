@@ -394,22 +394,22 @@
             {
               "id": "z022ps78r3ta",
               "text": "앞바퀴(좌측)",
-              "done": false
+              "done": true
             },
             {
               "id": "gmehpa4trayv",
               "text": "앞바퀴(우측)",
-              "done": false
+              "done": true
             },
             {
               "id": "9i9kgah7riwt",
               "text": "뒷바퀴(좌측)",
-              "done": false
+              "done": true
             },
             {
               "id": "szifb46arqot",
               "text": "뒷바퀴(우측)",
-              "done": false
+              "done": true
             }
           ]
         },
