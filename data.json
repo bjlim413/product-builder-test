@@ -546,7 +546,13 @@
           "id": "b0l924uxujd5",
           "title": "주소이전",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "qg2jjl9ruqnt",
+              "text": "하나카드",
+              "done": false
+            }
+          ]
         }
       ]
     }
