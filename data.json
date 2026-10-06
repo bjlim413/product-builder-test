@@ -529,6 +529,11 @@
               "id": "giyn1tqjpgus",
               "text": "전입신고 완료",
               "done": false
+            },
+            {
+              "id": "2kzak81upnbp",
+              "text": "등기부등본 확인",
+              "done": false
             }
           ]
         }
