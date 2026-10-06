@@ -351,7 +351,13 @@
           "id": "g8lbajzn7otj",
           "title": "전출 확인",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "la1tht4a82cj",
+              "text": "세입자 전출 확인",
+              "done": false
+            }
+          ]
         }
       ]
     },
