@@ -642,6 +642,11 @@
               "id": "mub70m8a1bqr",
               "text": "OPEX 확인",
               "done": false
+            },
+            {
+              "id": "emp3tpi61hi9",
+              "text": "CAPEX 확인",
+              "done": false
             }
           ]
         }
