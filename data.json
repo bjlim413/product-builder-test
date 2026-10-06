@@ -701,6 +701,11 @@
               "id": "l5kddm0h7hdb",
               "text": "전표 작성",
               "done": false
+            },
+            {
+              "id": "ey1ebxc67lvp",
+              "text": "전표 상신",
+              "done": false
             }
           ]
         }
