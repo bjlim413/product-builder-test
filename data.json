@@ -524,7 +524,13 @@
           "id": "amobh14fzt8h",
           "title": "전입신고",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "giyn1tqjpgus",
+              "text": "전입신고 완료",
+              "done": false
+            }
+          ]
         }
       ]
     }
