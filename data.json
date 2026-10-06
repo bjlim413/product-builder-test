@@ -728,6 +728,11 @@
               "id": "7r2yuvhx8yes",
               "text": "진행현황 안내 메일 발송",
               "done": false
+            },
+            {
+              "id": "h1xjkz43964c",
+              "text": "완료 메일 발송",
+              "done": false
             }
           ]
         }
