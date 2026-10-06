@@ -686,7 +686,13 @@
           "id": "u4y6vp7r69fk",
           "title": "법인카드 전표 작성",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "23ccs9m96qnt",
+              "text": "하나카드 내역 출력",
+              "done": false
+            }
+          ]
         }
       ]
     }
