@@ -723,6 +723,11 @@
               "id": "z4yn2l498olr",
               "text": "ERP CLOSE 일정 안내",
               "done": false
+            },
+            {
+              "id": "7r2yuvhx8yes",
+              "text": "진행현황 안내 메일 발송",
+              "done": false
             }
           ]
         }
