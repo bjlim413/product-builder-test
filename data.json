@@ -706,6 +706,11 @@
               "id": "ey1ebxc67lvp",
               "text": "전표 상신",
               "done": false
+            },
+            {
+              "id": "76ea9r407sqy",
+              "text": "결제 완료 확인",
+              "done": false
             }
           ]
         }
