@@ -632,7 +632,14 @@
       "subtitle": "",
       "icon": "📘",
       "palette": "arc",
-      "chapters": []
+      "chapters": [
+        {
+          "id": "62hks81f0ue1",
+          "title": "부서자금수지계획",
+          "guide": "",
+          "items": []
+        }
+      ]
     }
   ]
 }
