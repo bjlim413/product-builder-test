@@ -456,7 +456,13 @@
           "id": "tinr32nmtkjq",
           "title": "철거 작업",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "so1et4qfx2gb",
+              "text": "공용부만 몰딩 철거",
+              "done": false
+            }
+          ]
         }
       ]
     },
