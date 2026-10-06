@@ -696,6 +696,11 @@
               "id": "d9gswyvu75tx",
               "text": "내역과 영수증 대사",
               "done": false
+            },
+            {
+              "id": "l5kddm0h7hdb",
+              "text": "전표 작성",
+              "done": false
             }
           ]
         }
