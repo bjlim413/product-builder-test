@@ -674,6 +674,11 @@
               "id": "11zbsm0f3w8o",
               "text": "ITSM 유지보수 비용(년간)",
               "done": false
+            },
+            {
+              "id": "bgk6uhmi4ode",
+              "text": "VAN 사용료(월간)",
+              "done": false
             }
           ]
         }
