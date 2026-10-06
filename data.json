@@ -647,6 +647,11 @@
               "id": "emp3tpi61hi9",
               "text": "CAPEX 확인",
               "done": false
+            },
+            {
+              "id": "eufejnn51nzg",
+              "text": "자금소요계획",
+              "done": false
             }
           ]
         }
