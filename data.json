@@ -238,7 +238,13 @@
           "id": "s375pse3b5pu",
           "title": "일상 운동",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "yp2ug880blco",
+              "text": "벤치프레스(3세트)",
+              "done": false
+            }
+          ]
         }
       ]
     },
