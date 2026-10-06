@@ -529,6 +529,11 @@
               "id": "giyn1tqjpgus",
               "text": "전입신고 완료",
               "done": true
+            },
+            {
+              "id": "k9ehax6xqutv",
+              "text": "KT 집주소 변경 서비스",
+              "done": false
             }
           ]
         }
