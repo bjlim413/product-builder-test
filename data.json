@@ -637,7 +637,13 @@
           "id": "62hks81f0ue1",
           "title": "부서자금수지계획",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "mub70m8a1bqr",
+              "text": "OPEX 확인",
+              "done": false
+            }
+          ]
         }
       ]
     }
