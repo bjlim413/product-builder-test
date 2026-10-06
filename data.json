@@ -430,7 +430,14 @@
       "subtitle": "",
       "icon": "📘",
       "palette": "stealth",
-      "chapters": []
+      "chapters": [
+        {
+          "id": "amobh14fzt8h",
+          "title": "전입신고",
+          "guide": "",
+          "items": []
+        }
+      ]
     }
   ]
 }
