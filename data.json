@@ -678,27 +678,27 @@
             {
               "id": "mub70m8a1bqr",
               "text": "OPEX 확인",
-              "done": false
+              "done": true
             },
             {
               "id": "emp3tpi61hi9",
               "text": "CAPEX 확인",
-              "done": false
+              "done": true
             },
             {
               "id": "eufejnn51nzg",
               "text": "자금소요계획",
-              "done": false
+              "done": true
             },
             {
               "id": "bbs855eq2lqo",
               "text": "3개월치 종합 엑셀 작성(수식O)",
-              "done": false
+              "done": true
             },
             {
               "id": "hrbws6ll2pqf",
               "text": "3개월치 종합 엑셀 작성(수식X)",
-              "done": false
+              "done": true
             }
           ]
         },
