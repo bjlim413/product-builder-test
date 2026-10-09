@@ -584,7 +584,13 @@
           "id": "amy23je3kujq",
           "title": "전기 공사",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "5vcsxoqoo6y4",
+              "text": "전체 전기배선 조명, 배선기구 교체(시공비)",
+              "done": false
+            }
+          ]
         }
       ]
     },
