@@ -557,7 +557,13 @@
           "id": "rd1r8l77km61",
           "title": "목공 공사",
           "guide": "",
-          "items": []
+          "items": [
+            {
+              "id": "cix80l1qazbz",
+              "text": "공용부 몰딩 시공",
+              "done": false
+            }
+          ]
         },
         {
           "id": "amy23je3kujq",
